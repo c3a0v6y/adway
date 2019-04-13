@@ -1,0 +1,9 @@
+#version=201904131516
+#url=https://raw.githubusercontent.com/y6694886/adway/master/hosts
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# AD SERVERS START HERE
+#
+127.0.0.1	mi.gdt.qq.com
