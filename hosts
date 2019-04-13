@@ -7,3 +7,50 @@
 # AD SERVERS START HERE
 #
 127.0.0.1	mi.gdt.qq.com
+
+# [adview]
+127.0.0.1 adfill.adview.cn
+127.0.0.1 adview.cn
+127.0.0.1 bid.adview.cn
+127.0.0.1 config.adview.cn
+127.0.0.1 report.adview.cn
+127.0.0.1 rtb.adview.cn
+127.0.0.1 test2014.adview.cn
+127.0.0.1 www.adview.cn
+
+# [google]
+127.0.0.1 analytics.google.com
+127.0.0.1 clientmetrics-pa.googleapis.com
+127.0.0.1 google-analytics.com
+127.0.0.1 googleadservices.com
+127.0.0.1 googlesyndication.com
+127.0.0.1 pagead.l.google.com
+127.0.0.1 partnerad.l.google.com
+127.0.0.1 video-stats.video.google.com
+127.0.0.1	domains.googlesyndication.com
+127.0.0.1	gg.google.com
+127.0.0.1	google-analytics.com
+127.0.0.1	googleads.g.doubleclick.net
+127.0.0.1	googleads2.g.doubleclick.net
+127.0.0.1	googleads4.g.doubleclick.net
+127.0.0.1	googleadservices.com
+127.0.0.1	googlesyndication.com
+127.0.0.1	googletagmanager.com
+127.0.0.1	myscoop-tracking.googlecode.com
+127.0.0.1 wintricksbanner.googlepages.com
+127.0.0.1 www-google-analytics.l.google.com
+127.0.0.1 analytics.google.com
+127.0.0.1	pagead2.googleadservices.com
+127.0.0.1	pagead2.googlesyndication.com
+127.0.0.1	partner.googleadservices.com
+127.0.0.1	ssl.google-analytics.com
+127.0.0.1	tpc.googlesyndication.com
+127.0.0.1	tpc.googlesyndication.com.proxy.c9w.net
+127.0.0.1	tpcnc.googlesyndication.com
+127.0.0.1	trakksocial.googlecode.com
+127.0.0.1	www.google-analytics.com
+127.0.0.1	www.google.com.1.302br.net
+127.0.0.1	www.googleadservices.com
+127.0.0.1	www.googletagmanager.com
+127.0.0.1	www.googletagservices.com
+127.0.0.1	ad-creatives-public.commondatastorage.googleapis.com
